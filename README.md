@@ -60,5 +60,3 @@ Exibe informações completas sobre o filme selecionado, incluindo pôster em al
     Selecione um emulador ou dispositivo físico com Android 8.0 (API 26) ou superior e clique em **Run** (▶️).
 
 ---
-**Desenvolvido por:** [Seu Nome/Nome do Aluno]
-**Data:** Outubro de 2025
